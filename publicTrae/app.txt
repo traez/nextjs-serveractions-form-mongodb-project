@@ -1,0 +1,58 @@
+Timestamp: 00:00:00 
+------------------------------------------------------------------------
+Things i learnt - 
+
+-FormData Web API: The FormData interface provides a way to construct a set of key/value pairs representing form fields and their values, which can be sent using the fetch(), XMLHttpRequest.send() or navigator.sendBeacon() methods.
+-Cloudinary use with mongodb. You can store the URL provided by Cloudinary after uploading an image/video in your MongoDB documents. This way, you can reference the media asset from your application without storing the actual file in MongoDB.
+-File Upload in Next.js with NO libraries using client sie and server side rendering
+------------------------------------------------------------------------
+next.js fullstack app
+-crud functionallity api routes
+-backend database
+-Using Loading, not-found, and error default components, for a better app user experience.
+*********************
+1 I will also look into how i can use "server actions".
+2 Need a stand-alone page route to show each completed form entry
+3. Want the input to be a form with all content types like he said (integer, string, boolean, file), and with validation and possibly authorization also. UI will also change in that regard.
+4. Need page to auto refresh after delete, edit and add
+5 Dynamic page title names
+6 Yet to do READme too
+7 Adding testing would be a far stretch but would be nice
+------------------------------------------------------------------------
+Task: Read, research and develop a No-code tool in Nextjs.
+It should be able to take in dynamic configurations for pages and routes
+It should be able to take in dynamic configurations for forms, form validations and form submissions and storage.
+For storage, use any data store of your choice. If it is too much of a hassle, you may ignore it.
+Forms must be presented, filled in and can be retrieved to be presented to another user.
+Form fields must be dynamic enough to take in INTs only, STRING only, BOOLEAN and FILE UPLOADS fields
+Think of this challenge as recreating Notion/ Webflow & Google forms in Nextjs
+To be presented on Wed Next week.
+------------------------------------------------------------------------
+Step-by-Step Guide: Create a Next.js 13 CRUD App with MongoDB from Scratch
+https://www.youtube.com/watch?v=wNWyMsrpbz0
+1:05:00
+
+Admin Products By Next.js 14 Server Actions
+https://www.youtube.com/watch?v=j4_wm9kPRCc
+https://github.com/basir/next-admin-products-netlify/
+https://next-admin-products-netlify.vercel.app/
+25:09
+
+Fullstack CRUD Nextjs 14 Contact Book Application | mongoose mongodb Beginner Project LIVE BUILD
+https://www.youtube.com/watch?v=kDvgY0LMhVg&t=2110s
+https://github.com/thejayadad/crudnextjs/
+1:33:06
+
+File Upload in Next.js 13 App Directory with NO libraries! Client and React Server Components!
+https://www.youtube.com/watch?v=-_bhH4MLq1Y
+11:39
+https://ethanmick.com/how-to-upload-a-file-in-next-js-13-app-directory/
+https://github.com/a-bit-of-saas/examples/tree/main/next/file-upload?ref=ethanmick.com
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------

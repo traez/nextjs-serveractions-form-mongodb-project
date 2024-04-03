@@ -2,7 +2,7 @@ import "./globals.css";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Nextjs Serveractions Form Mongodb App",
+  title: "Nextjs Serveractions Form Mongodb Project",
   description: "Created by Trae Zeeofor",
 };
 
